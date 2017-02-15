@@ -12,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/classnames": "^0.0.32",
+    "@types/node": "^7.0.5",
     "@types/react": "^0.14.55",
     "@types/react-dom": "^0.14.20",
     "@types/react-router": "^2.0.41",
